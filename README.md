@@ -1,10 +1,10 @@
 SMART SAVER APP
 
----------------------What the Product Does----------------------
+-------------------------------------------------What the Product Does-----------------------------------------------------------------
 
 The Smart saver App is designed to connect with prepaid meter systems, enabling users to monitor, plan and manage their power usage and expenses. This app transforms into a financial tool, helping users avoid unexpected outages by providing insights, reminders and automation.
 
-----------Why It Matters---------------
+----------------------------------------------------Why It Matters---------------------------------------------------------------
 
 Most people only realize their electricity units are finished when the lights go off, often at the most inconvenient times.  That’s a real problem many homes and offices face daily.
 
@@ -17,7 +17,7 @@ Smart Saver solves this issue by:
 
 It’s not just about managing power but it's about financial awareness, control and convenience.
 
- -------------Who It’s For-----------
+ ----------------------------------Who It’s For---------------------------------------------
  
 	•	Homeowners and tenants are tired of sudden blackouts.
 	•	Small business and office owners managing shared power use.
