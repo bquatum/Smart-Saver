@@ -11,6 +11,7 @@ The meter data and payment systems (external APIs).
 
 This structure makes the solution reliable, scalable and easy to integrate with electricity providers.
 
+https://drive.google.com/file/d/1H_foDABJ4GWgVZeVQaqtbsy21KnCYU6s/view?usp=sharing
 
 
 
