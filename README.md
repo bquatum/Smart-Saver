@@ -1,6 +1,6 @@
 SMART SAVER APP
 
--------------------------------------------------What the Product Does-----------------------------------------------------------------
+-------------------------------------------------What the Product Does--------------------------------------------------------
 
 The Smart saver App is designed to connect with prepaid meter systems, enabling users to monitor, plan and manage their power usage and expenses. This app transforms into a financial tool, helping users avoid unexpected outages by providing insights, reminders and automation.
 
@@ -35,7 +35,7 @@ Smart Alerts: The app will send notification to users when usage spikes or power
 
 Power Usage History & Tips: The app will provide tips on how to reduce and manage power usage and visual graph on power usage and payment history.
 
---------------------------------------------------Technologies (Planned Stack):-----------------------------------------------------------------
+--------------------------------------------------Technologies (Planned Stack):------------------------------------------
 
 Frontend:  Flutter (cross-platform mobile app).
 
