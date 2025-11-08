@@ -44,7 +44,7 @@ Database:  Firebase / MongoDB.
 
 Integration:  APIs with prepaid meter systems and payment gateways.
 
- --------------------------------------------------How It Works---------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------How It Works--------------------------------------------------------------
  
 Users connect the Smart Saver app to their prepaid meter.
 
