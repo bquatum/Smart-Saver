@@ -42,6 +42,7 @@ Responsibilities:
 	•	Process and log all transactions.
 
 --------------------------Database Layer------------------------------------
+
 Technology : Firebase (Cloud Firestore) or MongoDB Atlas
 Data Stored:
 	•	User Profiles: ID, phone, meter number, payment details.
