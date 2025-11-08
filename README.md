@@ -24,6 +24,7 @@ It’s not just about managing power but it's about financial awareness, control
 	•	Estate and facility managers tracking multiple meters.
 
 -----------Key Features & Technologies:------------------------------------------------
+
 Real Time Update: The app will monitor and track the power unit usage and spending.
 
 Auto Topup: The app will be connected to a mobile bank app, wallet and card for seamless recharge.
@@ -34,7 +35,7 @@ Smart Alerts: The app will send notification to users when usage spikes or power
 
 Power Usage History & Tips: The app will provide tips on how to reduce and manage power usage and visual graph on power usage and payment history.
 
---------------------------------------------------Technologies (Planned Stack):------------------------------------------------------------------------------
+--------------------------------------------------Technologies (Planned Stack):-----------------------------------------------------------------
 
 Frontend:  Flutter (cross-platform mobile app).
 
