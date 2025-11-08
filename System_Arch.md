@@ -60,6 +60,7 @@ Payment Gateway: Integrated with Paystack or Flutterwave to enable secure, seaml
 Notification Service: Our notification service keeps you in the loop with push alerts through Firebase Cloud Messaging (FCM) or OneSignal. You’ll get real time warnings, like low Power Unit.
 
 ------------------------------Technical Feasibility------------------------------------
+
 Smart Saver is technically possible because it relies on existing, proven technologies already common in Nigeria and similar markets:
 
 	•	Prepaid meter APIs for real time data.
